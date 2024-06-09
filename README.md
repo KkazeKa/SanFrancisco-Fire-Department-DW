@@ -10,5 +10,14 @@
         <li>Determine the number of calls received each year.</li>
         <li>Identify the neighbourhoods with the highest number of incidents.</li>
     </ul>
+
+<h3>Steps:</h3>
+
+<ul>
+    <li>-Load Data from csv file ( Bulk Load)</li>
+    <li>Create datawarehouse followig a star schema model</li>
+    <li>Load Data into a ssas cube for multidimensionnal querying</li>
+    
+</ul>
   
   

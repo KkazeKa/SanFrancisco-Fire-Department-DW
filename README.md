@@ -1,5 +1,8 @@
 <h2>San Francisco fire department Dw</h2>
-<h3>This Project was conducted using sql server data tools stack (SSIS , SSAS)</h3>
+<h3>This Project was conducted using SQL server data tools stack (SSIS , SSAS)</h3>
+
+<h3>Business Process:</h3>
+<p>The Fire Incident Analysis project aims to analyze data collected by the San Francisco Fire Department to improve operational efficiency and performance. The process involves data collection, transformation, modeling, analysis, and performance improvement strategies based on derived insights.</p>
 
 
 <h3>Problematic :</h3>

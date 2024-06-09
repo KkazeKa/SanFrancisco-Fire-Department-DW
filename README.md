@@ -7,7 +7,7 @@
 
 <h3>Data description</h3>
 <p>The dataset under analysis contains detailed information on fire incidents responded to by the San Francisco Fire Department. Each incident record provides a comprehensive summary, including incident date, incident number, call number, alarm date, and arrival date. This report aims to provide a thorough analysis of the dataset to derive actionable insights and enhance operational efficiency.</p>
-![image](https://github.com/KkazeKa/SanFrancisco-Fire-Department-DW/assets/87916759/61d0b9e2-9a17-48b9-b00e-b1728794f394)
+<img src='https://github.com/KkazeKa/SanFrancisco-Fire-Department-DW/assets/87916759/61d0b9e2-9a17-48b9-b00e-b1728794f394'>
 
 
 

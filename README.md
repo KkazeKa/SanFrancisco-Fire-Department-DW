@@ -57,6 +57,8 @@ As a degenerate dimension, it eliminates the need for a separate fact table and 
         </div>
 <img src='https://github.com/KkazeKa/SanFrancisco-Fire-Department-DW/assets/87916759/c6464c5c-e926-440d-9269-3f59b7a6edc9'>
 
+<h3>Star schema</h3>
+<img src='https://github.com/KkazeKa/SanFrancisco-Fire-Department-DW/assets/87916759/a4dc68ce-670b-490a-88eb-a0a240065f49'>
 
 <h3>Business Questions and KPIs</h3>
     

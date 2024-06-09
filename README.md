@@ -27,7 +27,7 @@ Each fire incident record contains details such as incident date, incident numbe
             Captures temporal aspects such as incident date, alarm time, and arrival time.
             Enables analysis of incident trends over different time periods, facilitating insights into seasonal variations and daily patterns of emergency calls.
         </p>
-    </div>
+</div>
     <div>
         <h4 class="location">b. Location Dimension</h4> <!-- Changed to h4 with location class -->
         <p>

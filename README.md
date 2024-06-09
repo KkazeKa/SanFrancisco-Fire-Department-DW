@@ -5,6 +5,13 @@
 <p>The Fire Incident Analysis project aims to analyze data collected by the San Francisco Fire Department to improve operational efficiency and performance. The process involves data collection, transformation, modeling, analysis, and performance improvement strategies based on derived insights.</p>
 
 
+<h3>Data description</h3>
+<p>The dataset under analysis contains detailed information on fire incidents responded to by the San Francisco Fire Department. Each incident record provides a comprehensive summary, including incident date, incident number, call number, alarm date, and arrival date. This report aims to provide a thorough analysis of the dataset to derive actionable insights and enhance operational efficiency.</p>
+![image](https://github.com/KkazeKa/SanFrancisco-Fire-Department-DW/assets/87916759/61d0b9e2-9a17-48b9-b00e-b1728794f394)
+
+
+
+
 <h3>Problematic :</h3>
 <img src='https://github.com/KkazeKa/SanFrancisco-Fire-Department-DW/blob/main/sfdw.jpeg?raw=true' >
 

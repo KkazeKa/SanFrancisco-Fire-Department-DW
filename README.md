@@ -49,6 +49,13 @@ Each fire incident record contains details such as incident date, incident numbe
             Enables analysis of resource utilization, response team performance, and workload distribution across different units.
         </p>
     </div>
+<h3>Fact</h3>
+        <div>
+                <p>The fact table serves as a degenerate dimension, representing individual calls or incidents.
+It includes essential metrics such as response time(calculated), incident number, call number, Call Date, response DtTm , On_Scene DtTm .
+As a degenerate dimension, it eliminates the need for a separate fact table and simplifies the data model by directly incorporating call-specific attributes.</p>
+        </div>
+<img src=''>
 
 
 <h3>Business Questions and KPIs</h3>

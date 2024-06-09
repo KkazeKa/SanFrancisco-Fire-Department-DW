@@ -5,8 +5,10 @@
 
 <h3>Business Questions and KPIs</h3>
     
- <h4>-Kpi : Calculate the average response time for incidents on a yearly basis.</h4>
- <h4>-Determine the number of calls received each year.</h4>
- <h4> -Identify the neighbourhoods with the highest number of incidents. to html </h4>
+ <ul>
+        <li><h4>KPI: Calculate the average response time for incidents on a yearly basis.</h4></li>
+        <li><h4>Determine the number of calls received each year.</h4></li>
+        <li><h4>Identify the neighbourhoods with the highest number of incidents.</h4></li>
+    </ul>
   
   

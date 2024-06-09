@@ -55,8 +55,7 @@ Each fire incident record contains details such as incident date, incident numbe
 It includes essential metrics such as response time(calculated), incident number, call number, Call Date, response DtTm , On_Scene DtTm .
 As a degenerate dimension, it eliminates the need for a separate fact table and simplifies the data model by directly incorporating call-specific attributes.</p>
         </div>
-<img src='!https://github.com/KkazeKa/SanFrancisco-Fire-Department-DW/assets/87916759/c6464c5c-e926-440d-9269-3f59b7a6edc9
-'>
+<img src='https://github.com/KkazeKa/SanFrancisco-Fire-Department-DW/assets/87916759/c6464c5c-e926-440d-9269-3f59b7a6edc9'>
 
 
 <h3>Business Questions and KPIs</h3>

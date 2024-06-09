@@ -12,8 +12,44 @@
 
 
 
+
 <h3>Problematic :</h3>
 <img src='https://github.com/KkazeKa/SanFrancisco-Fire-Department-DW/blob/main/sfdw.jpeg?raw=true' >
+
+<h3>Granularity</h3>
+<p>In this project, the granularity is at the level of individual fire incidents.
+Each fire incident record contains details such as incident date, incident number, call number, alarm date, arrival date, primary situation, action taken, Unit Type responding, etc.</p>
+
+<h3>Dimensions</h3>
+<div>
+        <h4>a. Time Dimension</h>
+        <p>
+            Captures temporal aspects such as incident date, alarm time, and arrival time.
+            Enables analysis of incident trends over different time periods, facilitating insights into seasonal variations and daily patterns of emergency calls.
+        </p>
+    </div>
+    <div>
+        <h4 class="location">b. Location Dimension</h4> <!-- Changed to h4 with location class -->
+        <p>
+            Provides geographical information about incident locations, including address, district, and coordinates.
+            Facilitates spatial analysis to identify high-incidence areas, assess response coverage, and optimize resource allocation based on geographic distribution.
+        </p>
+    </div>
+    <div>
+        <h4>c. Incident Dimension</h4>
+        <p>
+            Describes the nature and type of each incident, including primary situation and action taken.
+            Allows for categorization and analysis of incident types to identify common scenarios, prioritize response protocols, and assess the effectiveness of actions taken.
+        </p>
+    </div>
+    <div>
+        <h4>d. Unit Dimension</h4>
+        <p>
+            Represents the units or resources deployed in response to each incident, such as fire engines, ambulances, and personnel.
+            Enables analysis of resource utilization, response team performance, and workload distribution across different units.
+        </p>
+    </div>
+
 
 <h3>Business Questions and KPIs</h3>
     

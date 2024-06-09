@@ -22,7 +22,7 @@ Each fire incident record contains details such as incident date, incident numbe
 
 <h3>Dimensions</h3>
 <div>
-        <h4>a. Time Dimension</h>
+        <h4>a. Time Dimension</h4>
         <p>
             Captures temporal aspects such as incident date, alarm time, and arrival time.
             Enables analysis of incident trends over different time periods, facilitating insights into seasonal variations and daily patterns of emergency calls.
